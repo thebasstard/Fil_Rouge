@@ -1,0 +1,9 @@
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\bin\Debug\AdresseEmailTests.dll
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\bin\Debug\AdresseEmailTests.pdb
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\bin\Debug\AdresseEmail.exe
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\bin\Debug\AdresseEmail.pdb
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\obj\Debug\AdresseEmailTests.csprojResolveAssemblyReference.cache
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\obj\Debug\AdresseEmailTests.dll
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmailTests\obj\Debug\AdresseEmailTests.pdb

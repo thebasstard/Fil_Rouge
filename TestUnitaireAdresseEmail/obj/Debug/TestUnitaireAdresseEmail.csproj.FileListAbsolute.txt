@@ -1,0 +1,18 @@
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\TestUnitaireAdresseEmail.dll
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\TestUnitaireAdresseEmail.pdb
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\AdresseEmail.exe
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\AdresseEmail.pdb
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\obj\Debug\TestUnitaireAdresseEmail.csprojResolveAssemblyReference.cache
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\obj\Debug\TestUnitaireAdresseEmail.dll
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\obj\Debug\TestUnitaireAdresseEmail.pdb
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\TestUnitaireAdresseEmail.dll
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\TestUnitaireAdresseEmail.pdb
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\AdresseEmail.exe
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\AdresseEmail.pdb
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\obj\Debug\TestUnitaireAdresseEmail.csprojResolveAssemblyReference.cache
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\obj\Debug\TestUnitaireAdresseEmail.dll
+F:\Fil rouge\MaquetterLapplicationFilRouge\TestUnitaireAdresseEmail\obj\Debug\TestUnitaireAdresseEmail.pdb

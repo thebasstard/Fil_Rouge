@@ -1,0 +1,12 @@
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\bin\Debug\AdresseEmail.exe.config
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\bin\Debug\AdresseEmail.exe
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\bin\Debug\AdresseEmail.pdb
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\obj\Debug\AdresseEmail.csprojResolveAssemblyReference.cache
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\obj\Debug\AdresseEmail.exe
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\obj\Debug\AdresseEmail.pdb
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\bin\Debug\AdresseEmail.exe.config
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\obj\Debug\AdresseEmail.exe
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\obj\Debug\AdresseEmail.pdb
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\bin\Debug\AdresseEmail.exe
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\bin\Debug\AdresseEmail.pdb
+F:\Fil rouge\MaquetterLapplicationFilRouge\AdresseEmail\obj\Debug\AdresseEmail.csprojResolveAssemblyReference.cache

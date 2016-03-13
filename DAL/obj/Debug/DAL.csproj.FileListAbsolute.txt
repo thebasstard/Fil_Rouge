@@ -1,0 +1,10 @@
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\DAL\bin\Debug\DAL.dll
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\DAL\bin\Debug\DAL.pdb
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\DAL\obj\Debug\DAL.dll
+C:\Users\DTCorp\Documents\Formation DL\Fil rouge\MaquetterLapplicationFilRouge\DAL\obj\Debug\DAL.pdb
+F:\MaquetterLapplicationFilRouge\DAL\bin\Debug\DAL.dll
+F:\MaquetterLapplicationFilRouge\DAL\bin\Debug\DAL.pdb
+F:\MaquetterLapplicationFilRouge\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\MaquetterLapplicationFilRouge\DAL\obj\Debug\DAL.dll
+F:\MaquetterLapplicationFilRouge\DAL\obj\Debug\DAL.pdb
