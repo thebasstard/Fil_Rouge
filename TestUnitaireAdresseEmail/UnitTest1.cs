@@ -12,7 +12,7 @@ namespace TestUnitaireAdresseEmail
         public void TestMethod1()
         {
 
-            Assert.IsTrue(Program.EmailValide("une@adresse.com"));
+            Assert.IsTrue(Program.EmailValide("une@adresse.com"));//j'appelle ma méthode bool pour tester l'adresse e-mail
 
         }
 
