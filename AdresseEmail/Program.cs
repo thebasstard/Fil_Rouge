@@ -16,8 +16,10 @@ namespace AdresseEmail
             {
 
                 Console.WriteLine("\nL'adresse eMail est vide");
+                return false;
                 Console.WriteLine("\nVeuillez entrer une adresse eMail");
                 eMail = Console.ReadLine();
+                
 
             }
 
@@ -32,12 +34,14 @@ namespace AdresseEmail
                 if (position_point == -1)
                 {
                     Console.WriteLine("\nIl n'y a pas de point");
+                    return false;
                 }
 
 
                 if (position_arobase == -1)
                 {
                     Console.WriteLine("\nIl n'y a pas d'arobase");
+                    return false;
                 }
 
                 else
@@ -47,6 +51,7 @@ namespace AdresseEmail
                     {
 
                         Console.WriteLine("\nL'erreur se trouve avant l'arobase");
+                        return false;
                     }
 
                     if ((position_point - position_arobase) <= 2)
@@ -56,14 +61,14 @@ namespace AdresseEmail
                         {
 
                             Console.WriteLine("\nL'erreur se trouve entre l'arobase et le point");
-
+                            return false;
                         }
 
                         else
                         {
 
                             Console.WriteLine("\nVeuillez vérifier la position du point");
-
+                            return false;
                         } 
 
                     }
@@ -71,6 +76,7 @@ namespace AdresseEmail
                     if ((eMail.Length - position_point) <= 2)
                     {
                         Console.WriteLine("\nL'erreur se trouve apres le point");
+                        return false;
                     }
                 }
 
@@ -88,6 +94,7 @@ namespace AdresseEmail
                 Console.BackgroundColor = ConsoleColor.White;
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("\nAppuyez sur la touche ''Entrée'' pour sortir");
+                return true;
             }
 
             return Regex.IsMatch(eMail, @"^[0-9a-zA-Z]+[-_.]?[0-9a-zA-Z]+@[a-zA-Z]{2,}\.[a-zA-Z]{2,}$");//retour de ma fonction

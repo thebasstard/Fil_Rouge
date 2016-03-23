@@ -63,5 +63,33 @@ namespace TestUnitaireAdresseEmail
             Assert.IsTrue(Program.EmailValide("u2_2a@adresse.co"));
 
         }
+        [TestMethod]
+        public void TestMethod8()
+        {
+
+            Assert.IsFalse(Program.EmailValide("u2_2aadresse.co"));
+
+        }
+        [TestMethod]
+        public void TestMethod9()
+        {
+
+            Assert.IsFalse(Program.EmailValide("u2_2a@adresseco"));
+
+        }
+        [TestMethod]
+        public void TestMethod10()
+        {
+
+            Assert.IsFalse(Program.EmailValide("u2_2a@a.com"));
+
+        }
+        [TestMethod]
+        public void TestMethod11()
+        {
+
+            Assert.IsFalse(Program.EmailValide("a@aa.com"));
+
+        }
     }
 }
