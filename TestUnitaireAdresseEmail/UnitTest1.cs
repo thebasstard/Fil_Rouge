@@ -91,5 +91,12 @@ namespace TestUnitaireAdresseEmail
             Assert.IsFalse(Program.EmailValide("a@aa.com"));
 
         }
+        [TestMethod]
+        public void TestMethod12()
+        {
+
+            Assert.IsFalse(Program.EmailValide("a@a.a.com"));
+
+        }
     }
 }

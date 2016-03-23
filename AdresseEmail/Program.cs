@@ -15,8 +15,7 @@ namespace AdresseEmail
             while (eMail == "")//<redemander une adresse eMail tant que le champ est vide/>
             {
 
-                Console.WriteLine("\nL'adresse eMail est vide");
-                return false;
+                Console.WriteLine("\nL'adresse eMail est vide");               
                 Console.WriteLine("\nVeuillez entrer une adresse eMail");
                 eMail = Console.ReadLine();
                 
@@ -32,57 +31,47 @@ namespace AdresseEmail
                 int position_point = eMail.IndexOf(".");//<position du point dans l'adresse eMail/>                
 
                 if (position_point == -1)
-                {
-                    Console.WriteLine("\nIl n'y a pas de point");
-                    return false;
+                {                  
+                    Console.WriteLine("\nIl n'y a pas de point");                    
                 }
 
 
                 if (position_arobase == -1)
-                {
-                    Console.WriteLine("\nIl n'y a pas d'arobase");
-                    return false;
+                {                  
+                    Console.WriteLine("\nIl n'y a pas d'arobase");                    
                 }
 
                 else
                 {
 
                     if (position_arobase < 2)
-                    {
-
-                        Console.WriteLine("\nL'erreur se trouve avant l'arobase");
-                        return false;
+                    {                     
+                        Console.WriteLine("\nL'erreur se trouve avant l'arobase");                        
                     }
 
                     if ((position_point - position_arobase) <= 2)
                     {
 
                         if (position_point > position_arobase)
-                        {
-
-                            Console.WriteLine("\nL'erreur se trouve entre l'arobase et le point");
-                            return false;
+                        {                           
+                            Console.WriteLine("\nL'erreur se trouve entre l'arobase et le point");                           
                         }
 
                         else
-                        {
-
+                        {                           
                             Console.WriteLine("\nVeuillez vérifier la position du point");
-                            return false;
-                        } 
-
+                        }
+                       
                     }
 
                     if ((eMail.Length - position_point) <= 2)
-                    {
-                        Console.WriteLine("\nL'erreur se trouve apres le point");
-                        return false;
-                    }
+                    {                       
+                        Console.WriteLine("\nL'erreur se trouve apres le point");                       
+                    }   
                 }
-
-                Console.WriteLine("\nEntrez une adresse e-mail");
-                eMail = Console.ReadLine();
-
+                Console.WriteLine("\nAppuyez sur la touche ''Entrée'' pour sortir");
+                return false;
+                
             }
 
             if (ReMail.IsMatch(eMail))
