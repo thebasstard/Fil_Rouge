@@ -70,9 +70,9 @@ namespace DAL
 
             SqlCommand Delete = new SqlCommand("delete from gratte.Commande where ID_Commande = @ID_Commande", Connect);
             Delete.Parameters.AddWithValue("@ID_Commande", Com.IDCommande);
-
+           
             Delete.ExecuteNonQuery();
-
+           
             Connect.Close();
 
         }

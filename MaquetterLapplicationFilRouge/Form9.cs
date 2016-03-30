@@ -142,6 +142,14 @@ namespace MaquetterLapplicationFilRouge
 
                 listBox1.DataSource = Data.List();
 
+                textBox4.Clear();
+                textBox5.Clear();
+                textBox6.Clear();
+                textBox7.Clear();
+                textBox8.Clear();
+                textBox9.Clear();
+                textBox10.Clear();
+
             }
 
             if (action == "supprimer")
@@ -163,6 +171,14 @@ namespace MaquetterLapplicationFilRouge
                 Data.Delete(Com);
 
                 listBox1.DataSource = Data.List();
+
+                textBox4.Clear();
+                textBox5.Clear();
+                textBox6.Clear();
+                textBox7.Clear();
+                textBox8.Clear();
+                textBox9.Clear();
+                textBox10.Clear();
             }
         }
 
